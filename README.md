@@ -1,3 +1,3 @@
 # SurdCRL
 
-The code is currently being organized and will be open-sourced soon. Thank you for your interest!
+The model demo testing scripts can be found in the debug folder. Currently, we have debugged the two stages of SurdCRL on UniformerV2. Additional training scripts and debugging scripts for other baselines will be uploaded soon. Stay tuned!
